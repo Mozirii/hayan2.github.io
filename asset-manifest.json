@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec1ee724.css",
+    "main.js": "/static/js/main.eb17dbe3.js",
+    "static/js/787.92a18b99.chunk.js": "/static/js/787.92a18b99.chunk.js",
+    "static/media/palgong.jpg": "/static/media/palgong.d0e48c1487a2f9808e58.jpg",
+    "index.html": "/index.html",
+    "main.ec1ee724.css.map": "/static/css/main.ec1ee724.css.map",
+    "main.eb17dbe3.js.map": "/static/js/main.eb17dbe3.js.map",
+    "787.92a18b99.chunk.js.map": "/static/js/787.92a18b99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec1ee724.css",
+    "static/js/main.eb17dbe3.js"
+  ]
+}
